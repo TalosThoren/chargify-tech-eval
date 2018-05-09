@@ -1,0 +1,6 @@
+# Mac generated files
+.DS_Store
+
+# vim generated files
+*~
+*.swp
